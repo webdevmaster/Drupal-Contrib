@@ -1,4 +1,3 @@
-
 · http://peachtreecollierdental.com/
 
 · http://mmaatl.com/
@@ -13,6 +12,6 @@
 
 · http://ginkgocomunicacion.com/?lang=en
 http://www.techflirt.com/tutorials/oop-in-php/index.html#oop_basics
-
+http://www.codeofaninja.com/2012/04/cakephp-2x-crud-tutorial.html#.T35fbeNMyEQ.dzone
 
 
